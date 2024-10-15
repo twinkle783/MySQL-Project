@@ -1,5 +1,8 @@
 # MySQL-Project
-The objective was to analyze the restaurant data using SQL. It includes,
+
+The objective was to analyze the restaurant data using SQL.
+
+It includes,
 Find factors influencing revenue of restaurants and optimize restaurant 
 performance.
 Understand customer preferences and behaviors thereby improving
@@ -9,6 +12,7 @@ and address issues promptly.
 Analyze trends in sales.
 
 Conclusion
+
 The analysis provides a comprehensive view of the performance and customer preferences across
 8,368 restaurants in Downtown, Rural, and Suburban areas. 
 Restaurant 4324 in Downtown emerged as the most revenue-generating establishment. Overall,
