@@ -1,4 +1,4 @@
-# MySQL-Project
+# MySQL- Project
 
 The objective was to analyze the restaurant data using SQL.
 
